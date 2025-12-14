@@ -1,1 +1,13 @@
-
+{
+  "owner": {
+    "username": "xitch114514",
+    "email": "1562093196@qq.com"
+  },
+  "domain": "luna",
+  "records": {
+    "A": [
+      "1.2.3.4"
+    ]
+  },
+  "proxied": false
+}
